@@ -4,15 +4,15 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,rust,go,dart&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=py,c,rust,go,dart&theme=dark&perline=5" />
   </a>
 </p>
 
-## Stuff I Know
+## Stuff I Know / I like 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,neovim,docker,git&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=arch,kali,neovim,docker,git,gcp,firebase,mongodb,nginx,postgres,powershell,vscode&theme=dark&" />
   </a>
 </p>
 
