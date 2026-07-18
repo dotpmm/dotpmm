@@ -1,1 +1,1 @@
-Figuring out how Git and GitHub works (new to coding as well)
+<img src="assets/about-me.svg" alt="About Me" width="800">
